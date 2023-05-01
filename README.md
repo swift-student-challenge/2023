@@ -7,8 +7,9 @@ experience what you’ve created.
 
 ## Submissions
 
-> To submit your contribution, please fork this project and edit this file. Afterwards, create a pull request and resolve any merge conflicts, including visual issues.
+> To submit your contribution, please fork this project and edit this file. Afterwards, create a pull request apnd resolve any merge conflicts, including visual issues.
 
 | Name | Source |    Videos    | Technologies | Status |  Go Apple Park |
 |------|--------|--------------|--------------|--------|----------------|
 | Ryan Zhu | [GitHub](https://github.com/underthestars-zhy/DullApp) | [Youtube](https://youtu.be/znMqh_vipY0) | SwiftUI, UIKit, Swift | Submitted | Uncertain |
+| Yi Cao | [GitHub](https://github.com/xiaoyu2006/IFS) | nil | SwiftUI, UIKit | Submitted | Uncertain |
