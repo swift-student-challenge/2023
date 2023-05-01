@@ -11,4 +11,4 @@ experience what you’ve created.
 
 | Name | Source |    Videos    | Technologies | Status |  Go Apple Park |
 |------|--------|--------------|--------------|--------|----------------|
-| Ryan | [GitHub](https://github.com/underthestars-zhy/DullApp) | [Youtube](https://youtu.be/znMqh_vipY0) | SwiftUI, UIKit, Swift | Submitted | Uncertain |
+| Ryan Zhu | [GitHub](https://github.com/underthestars-zhy/DullApp) | [Youtube](https://youtu.be/znMqh_vipY0) | SwiftUI, UIKit, Swift | Submitted | Uncertain |
