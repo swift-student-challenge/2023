@@ -7,7 +7,7 @@ experience what you’ve created.
 
 ## Submissions
 
-> To submit your contribution, please fork this project and edit this file. Afterwards, create a pull request apnd resolve any merge conflicts, including visual issues.
+> To submit your contribution, please fork this project and edit this file. Afterwards, create a pull request and resolve any merge conflicts, including visual issues.
 
 | Name | Source |    Videos    | Technologies | Status |  Go Apple Park |
 |------|--------|--------------|--------------|--------|----------------|
