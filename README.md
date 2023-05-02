@@ -14,3 +14,4 @@ experience what you’ve created.
 | Ryan Zhu | [GitHub](https://github.com/underthestars-zhy/DullApp) | [Youtube](https://youtu.be/znMqh_vipY0) | SwiftUI, UIKit, Swift | Submitted | Uncertain |
 | Yi Cao | [GitHub](https://github.com/xiaoyu2006/IFS) | nil | SwiftUI, UIKit | Submitted | Uncertain |
 | Yaoyao Wu | [GitHub](https://github.com/wyy511511/ChineseCharacterLearning) | nil | Vision, PencilKit, SwiftUI | Submitted | Uncertain |
+| Freddie Nicholson | [GitHub](https://github.com/FreddieN/Bouncer-WWDC23) | [Youtube](https://youtu.be/XSjS0nZrEhQ) | SwiftUI, ARKit, SceneKit, CoreMotion | Submitted | Uncertain |
