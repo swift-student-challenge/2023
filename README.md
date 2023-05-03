@@ -11,6 +11,7 @@ experience what you’ve created.
 
 | Name | Source |    Videos    | Technologies | Status |  Go Apple Park |
 |------|--------|--------------|--------------|--------|----------------|
+| Frank Chu | [GitHub](https://github.com/yongfrank/regexgo) [App Store](https://apps.apple.com/app/regex-go/id6447801504) | [Youtube](https://www.youtube.com/watch?v=nNWsuZMPHtk) | SwiftRegex, RegexBuilder | Submitted | Uncertain |
 | Ryan Zhu | [GitHub](https://github.com/underthestars-zhy/DullApp) | [Youtube](https://youtu.be/znMqh_vipY0) | SwiftUI, UIKit, Swift | Submitted | Uncertain |
 | Yi Cao | [GitHub](https://github.com/xiaoyu2006/IFS) | nil | SwiftUI, UIKit | Submitted | Uncertain |
 | Yaoyao Wu | [GitHub](https://github.com/wyy511511/ChineseCharacterLearning) | nil | Vision, PencilKit, SwiftUI | Submitted | Uncertain |
