@@ -17,3 +17,4 @@ experience what you’ve created.
 | Yi Cao | [GitHub](https://github.com/xiaoyu2006/IFS) | nil | SwiftUI, UIKit | Submitted | Uncertain |
 | Yaoyao Wu | [GitHub](https://github.com/wyy511511/ChineseCharacterLearning) | nil | Vision, PencilKit, SwiftUI | Submitted | Uncertain |
 | Henri Bredt | [GitHub](https://github.com/henribredt/E-Piano-WWDC23) | [Youtube](https://www.youtube.com/watch?v=0ZGPRZ1uUi0) | SwiftUI | Submitted | Want to |
+| Omar Abu Sharar | [GitHub](https://github.com/omarabusharar/ssc-2023) | [Youtube](https://www.youtube.com/watch?v=aL7OD8BxTJ8) | SwiftUI, SpriteKit | Submitted | Want to |
