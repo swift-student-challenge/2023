@@ -11,7 +11,7 @@ experience what you’ve created.
 
 | Name | Source |    Videos    | Technologies | Status |  Go Apple Park |
 |------|--------|--------------|--------------|--------|----------------|
-| David Mazzeo | [GitHub](https://github.com/TheIntelCorei9/Swift-Student-Challenge-23) | [YouTube](https://www.youtube.com/watch?v=ViGDWfh0ViA) | UIKit, SpriteKit, Core Motion | Submitted |
+| David Mazzeo | [GitHub](https://github.com/TheIntelCorei9/Swift-Student-Challenge-23) | [YouTube](https://www.youtube.com/watch?v=ViGDWfh0ViA) | UIKit, SpriteKit, Core Motion | Submitted | Want to |
 | Frank Chu | [GitHub](https://github.com/yongfrank/regexgo) <br> [App Store](https://apps.apple.com/app/regex-go/id6447801504) | [Youtube](https://www.youtube.com/watch?v=nNWsuZMPHtk) | Swift Regex, RegexBuilder | Submitted | Want to |
 | Henri Bredt | [GitHub](https://github.com/henribredt/E-Piano-WWDC23) | [Youtube](https://www.youtube.com/watch?v=0ZGPRZ1uUi0) | SwiftUI | Submitted | Want to |
 | [Jose Adolfo Talactac](https://twitter.com/devjoseadolfo) | [GitHub](https://github.com/devjoseadolfo/LogicBoard) | [YouTube](https://youtu.be/Pg_R5nvF2Tw) | SwiftUI, SpriteKit, UIKit | Submitted | Want to |
